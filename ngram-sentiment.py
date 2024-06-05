@@ -1,8 +1,3 @@
-"""This is a sample file for hw2. 
-It contains the function that should be submitted,
-except all it does is output a random value.
-- Dr. Licato"""
-
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer
 import sklearn.naive_bayes
