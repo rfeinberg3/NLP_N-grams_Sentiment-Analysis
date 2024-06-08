@@ -87,8 +87,8 @@ The second part involves training a Naïve Bayes classifier to predict the senti
 Ensure you have Python 3.8+ installed. Clone the repository and install the required libraries:
 
 ```bash
-git clone https://github.com/yourusername/hw2.git
-cd hw2
+git clone https://github.com/rfeinberg3/NLP_N-grams_Sentiment-analysis.git
+cd NLP_N-grams_Sentiment-analysis
 pip install -r requirements.txt
 ```
 
